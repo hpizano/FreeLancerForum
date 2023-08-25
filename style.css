@@ -1,0 +1,21 @@
+.table {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    border: solid  1px black ;
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    border: solid  1px black ;
+
+}
+.header > h1 && p {
+    display: flex;
+    border: solid  1px black ;
+    text-align: center;
+}
