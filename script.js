@@ -21,3 +21,7 @@ function randomPrice() {
 }
 
 const price = [randomPrice()]
+
+function render(){
+    const html = 
+}
